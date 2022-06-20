@@ -14,3 +14,4 @@ sudo systemctl enable ajenti
 echo Ajenti will listen on HTTPS port 8000 by default
 echo Default username : root
 echo Default password : admin
+echo Script by Timojl1
